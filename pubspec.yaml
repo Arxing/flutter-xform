@@ -1,5 +1,6 @@
 name: xform
-description: Advanced form with various functions, like validation, text constraint, length constraint, alignment and more.
+description: |
+  Advanced form with various functions, like validation, text constraint, length constraint, alignment and more.
 version: 0.0.1
 author: Arxing
 homepage: https://github.com/Arxing/flutter-xform

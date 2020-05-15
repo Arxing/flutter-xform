@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:xform/xform.dart';
+import 'package:xform/src/xform.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_databinding/databinding.dart' hide ValueChanged;
 
